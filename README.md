@@ -84,9 +84,9 @@ The demo will accept **one dermoscopic PNG/JPEG image**, display seven class pro
 | Member | Main Responsibility |
 | --- | --- |
 | Omar Ayman | Team lead, training pipeline, integration and reporting |
-| Menna | Dataset, EDA, lesion-grouped splitting and dataloaders |
+| Menna Hesham | Dataset, EDA, lesion-grouped splitting and dataloaders |
 | Ahmed Khaled | Baseline CNN, ResNet50 and experiments |
-| Arwa | EfficientNet-B0, imbalance handling and threshold analysis |
+| Arwa Mohamed | EfficientNet-B0, imbalance handling and threshold analysis |
 | Fatma Mahmoud | Evaluation, Grad-CAM and Streamlit app |
 
 ## Project Status
